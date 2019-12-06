@@ -1,18 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+// new
+using System;
+using System.Linq;
+using System.Text;
 
-public class OsmNodeParser : MonoBehaviour
+class OsmNodeParser
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }
